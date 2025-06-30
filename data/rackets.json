@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "model": "Yonex Nanoflare 700",
+    "brand": "Yonex",
+    "level": "进阶",
+    "style": "控制型",
+    "stiffness": "中硬",
+    "price": 900,
+    "img": "https://example.com/yonex700.jpg"
+  },
+  {
+    "id": 2,
+    "model": "Li-Ning Aeronaut 7000",
+    "brand": "Li-Ning",
+    "level": "初学",
+    "style": "全能型",
+    "stiffness": "软",
+    "price": 350,
+    "img": "https://example.com/ln7000.jpg"
+  }
+ 
+]
